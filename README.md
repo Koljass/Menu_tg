@@ -1,7 +1,7 @@
 # Menu_tg
 
 
-## install 
+## install termux
 
 
     pkg install git
