@@ -8,7 +8,7 @@ while 1 == 1:
             output = int(input("3 вид 4 вид 5 вид 6 вид"))
         case 2:
             print('корзина')
-            
+            output = int(input("1 меню "))
         case 3:
             print("вид 3")
             print("пикча")
