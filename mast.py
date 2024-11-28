@@ -2,7 +2,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Updater, CommandHandler, CallbackQueryHandler, MessageHandler, Filters, CallbackContext
 
 # Токен, который вы получили от BotFather
-TOKEN = 'your-telegram-bot-token'
+TOKEN = '8016150551:AAFFYyAbq4DJZv58rxdKle4M7Wsl94VE04c'
 
 # Меню шаурмы
 menu = {
