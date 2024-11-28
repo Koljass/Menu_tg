@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 
 # Замените на свой токен, который вы получили от BotFather
-TOKEN = 'YOUR_BOT_TOKEN'
+TOKEN = '8016150551:AAFFYyAbq4DJZv58rxdKle4M7Wsl94VE04c'
 bot = telebot.TeleBot(TOKEN)
 
 # Меню шаурмы
