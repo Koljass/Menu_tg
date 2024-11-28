@@ -1,5 +1,5 @@
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
-from telegram.ext import Updater, CommandHandler, CallbackQueryHandler, MessageHandler, Filters, CallbackContext
+from telegram.ext import Updater, CommandHandler, CallbackQueryHandler, MessageHandler, filters, CallbackContext
 
 # Токен, который вы получили от BotFather
 TOKEN = '8016150551:AAFFYyAbq4DJZv58rxdKle4M7Wsl94VE04c'
